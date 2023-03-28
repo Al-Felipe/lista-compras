@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background-color: rgb(219, 229, 238);
+}
+
+ul {
+  margin-top: 50px;
+  list-style: none;
+}
+
+ul button {
+  margin-left: 10px;
+}
+
+li {
+  margin-bottom: 10px;
+}
